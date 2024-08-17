@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ume-Aimen</h1>
-<h3 align="center">A passionate developer from Pakistan <img src="https://www.flaticon.com/free-icon/pakistan_3373294?term=pakistan&page=1&position=6&origin=tag&related_id=3373294" width="20"/></h3>
+<h3 align="center">A passionate developer from Pakistan <img src="https://www.flaticon.com/free-icon/pakistan_3373294?term=pakistan&page=1&position=6&origin=tag&related_id=3373294"/></h3>
 <img align="right" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" height="200"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ume-aimen&label=Profile%20views&color=0e75b6&style=flat" alt="ume-aimen" /> </p>
 
