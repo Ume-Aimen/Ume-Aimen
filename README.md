@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ume-Aimen</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" src="[https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562](https://camo.githubusercontent.com/bf67beb7d48581e748a5d7f787fd63a6c1be030359ee7b4004d1bae224a3741b/68747470733a2f2f632e74656e6f722e636f6d2f4267695f35346d6565694d41414141432f616e696d652d747970696e672e676966)" height="200"/>
+<img align="right" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" height="200"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ume-aimen&label=Profile%20views&color=0e75b6&style=flat" alt="ume-aimen" /> </p>
 
 - 🌱 I’m currently learning **Data Structures using C++**
